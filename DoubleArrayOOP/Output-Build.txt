@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: DoubleArrayOOP, Configuration: Debug x64 ------
+1>DoubleArrayOOP.vcxproj -> C:\Users\mecha\source\repos\DoubleArrayOOP\x64\Debug\DoubleArrayOOP.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
